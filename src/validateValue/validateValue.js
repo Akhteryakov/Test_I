@@ -6,5 +6,3 @@ const validateValue = (value) => {
 };
 
 module.exports = validateValue;
-
-//
